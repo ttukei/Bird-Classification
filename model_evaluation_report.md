@@ -6,7 +6,7 @@ This model shows a **mean average precision of 0.7–0.8** on the test set, indi
 
 Generally, the model performed well classifying 200 bird species sourced from the dataset, although there is always room for further improvement: data augmentation, more advanced architectures, maybe, could result in better performance such as classifying similar species more accurately.
 
-## 2. Introduction
+## Introduction
 
 Being able to classify bird species accurately falls under applications in ecology, monitoring of wildlife, and conservation. For example, volunteers participating in the Christmas Bird Count in Washington which is one of the longest-running citizen science projects in ornithology may be able to employ this technology through the use of an app increasing productivity and accuracy.
 
